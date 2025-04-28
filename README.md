@@ -176,7 +176,19 @@ This project aims to develop an **automated predictive model** that:
 - Expanding to multi-class prediction (severity levels)
 
 ---
+🎓 Credentials to Verify Certificate
+Project Title: Cardiovascular Risk Prediction
 
+Certification Course/Institution: AlmaBetter Capstone Project
+
+Awarded By: AlmaBetter
+
+Award Date: 28.03.2023
+
+Credential ID: 41835268998147
+
+Verification: Certificate available upon request.
+---
 ## 🤝 Let's Connect
 
 If you're looking for passionate, results-driven data scientists — let's connect!
