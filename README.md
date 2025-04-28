@@ -1,5 +1,3 @@
----
-
 # ❤️ Cardiovascular Risk Prediction
 
 > **Using Machine Learning to Detect Heart Disease Risk and Save Lives**
