@@ -22,7 +22,7 @@ By accurately predicting patient risk, healthcare providers can implement timely
 ---
 ## 🎥 Presentation Video
 
-[![Watch Demo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fplay-button&psig=AOvVaw1GiVAg33Bxv47iOmo9FSIN&ust=1745941912892000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjYgtWK-4wDFQAAAAAdAAAAABAE)](https://drive.google.com/file/d/1_DaHf3oUMSn_7SuwllynqrJBSGrNf6Qt/view?usp=drive_link)
+[![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/1_DaHf3oUMSn_7SuwllynqrJBSGrNf6Qt/view?usp=drive_link)
 
 Click the image above or [click here to watch the video](https://drive.google.com/file/d/1_DaHf3oUMSn_7SuwllynqrJBSGrNf6Qt/view?usp=drive_link).
 ---
