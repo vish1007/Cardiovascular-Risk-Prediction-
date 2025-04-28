@@ -20,7 +20,12 @@ By accurately predicting patient risk, healthcare providers can implement timely
 - **Approach**: Multimodel comparison and optimization
 
 ---
+## 🎥 Presentation Video
 
+[![Watch Demo](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/1_DaHf3oUMSn_7SuwllynqrJBSGrNf6Qt/view?usp=drive_link)
+
+Click the image above or [click here to watch the video](https://drive.google.com/file/d/1_DaHf3oUMSn_7SuwllynqrJBSGrNf6Qt/view?usp=drive_link).
+---
 ## 👨‍💻 Team Contribution
 
 - **Team Size**: 3
