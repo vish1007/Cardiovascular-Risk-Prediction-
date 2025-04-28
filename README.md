@@ -26,7 +26,7 @@ By accurately predicting patient risk, healthcare providers can implement timely
 - **Team Size**: 3
 - **Members**:
   - Dileep Singh
-  - Vishal Singh ([GitHub](https://github.com/vish1007/Cardiovascular-Risk-Prediction-))
+  - Vishal Singh ([GitHub](https://github.com/vish1007/Cardiovascular-Risk-Prediction-.git))
   - Mohammad Irfan
 
 ---
@@ -118,7 +118,7 @@ This project aims to develop an **automated predictive model** that:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/vish1007/Cardiovascular-Risk-Prediction-
+   https://github.com/vish1007/Cardiovascular-Risk-Prediction-.git
    ```
 
 2. **Navigate to the Project Directory**:
