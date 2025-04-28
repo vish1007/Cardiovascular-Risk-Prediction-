@@ -176,18 +176,28 @@ This project aims to develop an **automated predictive model** that:
 - Expanding to multi-class prediction (severity levels)
 
 ---
-🎓 Credentials to Verify Certificate
-Project Title: Cardiovascular Risk Prediction
+Certainly! Here's a professional README format for your certification details:
 
-Certification Course/Institution: AlmaBetter Capstone Project
+---
 
-Awarded By: AlmaBetter
+## Certification Information
 
-Award Date: 28.03.2023
+**Course Title**: Cardiovascular Risk Prediction  
+**Certification Course/Institution**: AlmaBetter Capstone Project  
+**Awarded By**: AlmaBetter  
+**Award Date**: 28th March 2023  
+**Credential ID**: 41835268998147  
 
-Credential ID: 41835268998147
+## Certificate Verification
 
-Verification: Certificate available upon request.
+You can verify the authenticity of this certificate through the following link:  
+[Verify Certificate](https://verified.sertifier.com/en/verify/41835268998147/)
+
+*Note: Certificate is available upon request.*
+
+---
+
+Feel free to adjust or expand any sections according to your needs!
 ---
 ## 🤝 Let's Connect
 
@@ -195,7 +205,6 @@ If you're looking for passionate, results-driven data scientists — let's conne
 
 📧 Contact: [singhvishdata10@gmail.com]  
 💼 LinkedIn: [https://www.linkedin.com/in/vishal-singh-983821218/]
-
 ---
 
 # ❤️ Empowering Healthcare with AI | Early Detection Saves Lives!
