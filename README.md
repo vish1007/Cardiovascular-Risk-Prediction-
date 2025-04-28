@@ -112,23 +112,50 @@ This project aims to develop an **automated predictive model** that:
 ---
 
 ## 📂 How to Run
+---
 
-1. Clone the Repository:
+## 📂 How to Run
+
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/vish1007/Cardiovascular-Risk-Prediction-
    ```
-2. Navigate to Project Directory:
+
+2. **Navigate to the Project Directory**:
    ```bash
    cd Cardiovascular-Risk-Prediction
    ```
-3. Install Required Libraries:
+
+3. **Create a New Conda Environment**:
    ```bash
-   pip install -r requirements.txt
+   conda env create -f environment.yml
    ```
-4. Open the Notebook:
+
+4. **Activate the Environment**:
    ```bash
-   jupyter notebook Cardiovascular_Risk_Prediction.ipynb
+   conda activate cardiovascular-risk-prediction
    ```
+
+5. **Install the IPython Kernel**:
+   ```bash
+   pip install ipykernel
+   ```
+
+6. **Add the Environment to Jupyter**:
+   ```bash
+   python -m ipykernel install --user --name=cardiovascular-risk-prediction
+   ```
+
+7. **Launch Jupyter Notebook**:
+   ```bash
+   jupyter notebook
+   ```
+
+8. **Open the Notebook File**:
+   - Open `Cardiovascular_Risk_Prediction.ipynb`
+   - In the **Kernel** tab ➔ **Change Kernel** ➔ Select **`cardiovascular-risk-prediction`**
+
+---
 
 ---
 
