@@ -18,7 +18,7 @@ By accurately predicting patient risk, healthcare providers can implement timely
 🩺 **Live Demo**: [Cardiovascular Risk Prediction App on Hugging Face Spaces](https://huggingface.co/spaces/vishal0797/Cardiovascular_Risk_Prediction)
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🚀_View_on-HuggingFace-blue?logo=HuggingFace)](https://huggingface.co/spaces/vishal0797/Cardiovascular_Risk_Prediction)
-![App Screenshot](app/Screenshot from 2025-04-30 14-12-56.png)
+![App Screenshot](https://github.com/vish1007/Cardiovascular-Risk-Prediction-/blob/51ea733bb42554053cd771bb8b9558d91051203a/app/Screenshot%20from%202025-04-30%2014-12-56.png)
 
 ## 🛠 Project Type
 
