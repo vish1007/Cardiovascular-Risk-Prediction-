@@ -13,6 +13,12 @@ This project leverages machine learning techniques to **classify patients' 10-ye
 By accurately predicting patient risk, healthcare providers can implement timely interventions, ultimately saving lives.
 
 ---
+## 🚀 Try the App Now!
+
+🩺 **Live Demo**: [Cardiovascular Risk Prediction App on Hugging Face Spaces](https://huggingface.co/spaces/vishal0797/Cardiovascular_Risk_Prediction)
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🚀_View_on-HuggingFace-blue?logo=HuggingFace)](https://huggingface.co/spaces/vishal0797/Cardiovascular_Risk_Prediction)
+![App Screenshot](assets/app_screenshot.png)
 
 ## 🛠 Project Type
 
